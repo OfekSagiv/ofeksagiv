@@ -1,4 +1,4 @@
-## Hi, I'm Ofek
+## Ofek Sagiv
 
 I’m a software developer, actively contributing to real-world projects as part of the [ColmanDevClub](https://github.com/ColmanDevClubORG), and a computer science student at the College of Management.
 
