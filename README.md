@@ -11,10 +11,13 @@ I’m a software developer, actively contributing to real-world projects as part
 **Concepts:** OOP, MVC, RESTful APIs, JWT Authentication  
 **Methodologies:** Agile development
 
-### Projects
+### 🚀 Projects
 
-- [Locker It](https://github.com/Locker-It): A smart second-hand commerce platform with locker-based logistics, developed as part of the ColmanDevClub with guidance from industry mentors
+- [Locker It](https://github.com/Locker-It): A smart second-hand commerce platform with locker-based logistics, developed as part of the ColmanDevClub with guidance from industry mentors.  
+  Built with React, Node.js, Express, and MongoDB, using JWT auth, modular architecture, and Swagger for API documentation.
 
+- **Digital Books Management System** – A backend service for managing a digital library, built with Java & Spring Boot. Includes JWT auth, PostgreSQL, Swagger docs, and Dockerized setup.  
+  Live Demo: [app.ofeksagiv.com](https://app.ofeksagiv.com) | Source Code: [github.com/OfekSagiv/book-management](https://github.com/OfekSagiv/book-management)
 ### Reach Me
 
 You can reach out by email at: **ofeksagiv@gmail.com**
